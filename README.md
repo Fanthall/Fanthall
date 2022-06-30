@@ -75,6 +75,8 @@
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-aa7cdf.svg?&style=plastic&logo=visualstudio&logoColor=white" />
   &emsp;
     <img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" />
+  &emsp;
+    <img alt="Eclipse" src="https://img.shields.io/badge/Android%20Studio-yellow.svg?&style=plastic&logo=android&logoColor=white" />
 </p>
 
  ### 👉 Operating Systems
