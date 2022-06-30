@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Sezer
-✨ I'm living in Eskişehir, Turkey. I graduated from Eskişehir Osmangazi University Computer Engineer.
+✨ I'm living in Eskişehir, Turkey. I graduated departman of Computer Engineer from Eskişehir Osmangazi University.
 
 - 🔭 I’m currently working on React-Native
   
