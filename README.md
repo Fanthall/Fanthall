@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on React-Native
 
 <div id="badges">
+  &emsp;   
   - 📫 How to reach me: 
+  &emsp;   
   <p  align="center">
   <a href="https://www.linkedin.com/in/sezer-demir-d-a8084b1b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
