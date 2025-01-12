@@ -28,6 +28,8 @@
 
 <p align="center"> 
   &emsp;   
+  <img alt="TypeScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"> 
+  &emsp;   
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"> 
   &emsp;  
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3C873A.svg?style=plastic&logo=node.js&logoColor=white">
@@ -54,7 +56,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/TypeScritp%20-%233178c6.svg?style=plastic&logo=typescript&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
