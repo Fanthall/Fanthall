@@ -28,7 +28,7 @@
 
 <p align="center"> 
   &emsp;   
-  <img alt="TypeScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScritp%20-%233178c6.svg?style=plastic&logo=typescript&logoColor=white"> 
   &emsp;   
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"> 
   &emsp;  
